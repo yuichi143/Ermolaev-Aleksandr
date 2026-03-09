@@ -1,0 +1,17 @@
+[project]
+name = "ermolaev-aleksandr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = true
+
+[project.scripts]
+VD-games = "VD_games.scripts.VD_games:main"
+VD-even = "VD_games.scripts.VD_even:main"
+VD-calc = "VD_games.scripts.VD_calc:main"
+VD-gcd = "VD_games.scripts.VD_gcd:main"
+VD-progression = "VD_games.scripts.VD_progression:main"
