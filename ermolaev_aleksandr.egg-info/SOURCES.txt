@@ -13,4 +13,5 @@ ermolaev_aleksandr.egg-info/PKG-INFO
 ermolaev_aleksandr.egg-info/SOURCES.txt
 ermolaev_aleksandr.egg-info/dependency_links.txt
 ermolaev_aleksandr.egg-info/entry_points.txt
+ermolaev_aleksandr.egg-info/requires.txt
 ermolaev_aleksandr.egg-info/top_level.txt
